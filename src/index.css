@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Oswald:wght@300&display=swap');
+
+body {
+    background-image: url('./assets/image/photo-1639322537228-f710d846310a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
